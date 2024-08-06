@@ -1,0 +1,60 @@
+.cr{
+    font-size: 30px;
+}
+.form-control{
+    display:inline;
+    
+}
+.form-group{
+    width: 250px;
+    margin-bottom: 10px;
+    
+ }
+
+.btn-update {
+    background-color: #007bff;
+    color: white;
+    width: 80%;
+    margin-top: 20px;
+}
+.btn-update:hover {
+    background-color: #0056b3;
+}
+.btn-buy-now1 {
+    background-color:rgb(125, 187, 118);
+    color: white;
+    width:90%;
+    /* margin-top: 30px; */
+    
+}
+.btn-buy-now1:hover {
+    background-color: #218838;
+}
+.buybtn{
+    max-width: 500px;
+}
+.sku{
+    font-size: 15px;
+    text-align: left;
+}
+/* .carousel-item img {
+    height: auto;
+    object-fit: cover;  This ensures the image covers the entire space without distortion 
+}  */
+.carousel-image {
+    max-height: 400px; 
+    width: 100%;
+    object-fit: cover;
+  }
+.crsl{
+    /* width: 500px; */
+    height: 630px;
+}
+
+
+label{
+    font-weight: bold;
+}
+#mini{
+    font-weight: 200;
+}

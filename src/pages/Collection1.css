@@ -1,0 +1,16 @@
+.collection1{
+    height: 380px;
+}
+.btn1{
+    text-align: center;
+    /* margin-left: 60px; */
+    /* background-color: #b6b3b3; */
+}
+
+.btn5:hover{
+    background-color: #1d1b1b;
+    color: white;
+}
+.card1{
+    width: 800px;
+}

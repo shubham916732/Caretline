@@ -1,0 +1,10 @@
+.navbar-brand{
+    font-size: 2rem;
+}
+/* .form-control {
+    max-width: 50px;
+} */
+
+.form-control{
+    padding-right: 0px;
+}

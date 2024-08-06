@@ -1,0 +1,114 @@
+.view{
+    font-size: 30px;
+}
+.flt{
+    width:80%;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+.flt2{
+    width:80%;
+    /* margin-top: 30px; */
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+nav{
+    background-color: rgb(181, 180, 180);
+    /* margin-left: 20px;  */
+}
+.nav-item{
+    margin-left: 5px;
+} 
+.navbar-nav{
+    margin-left: 60px;
+}
+.price{
+    display:flex;
+}
+.price2{
+    margin-left: 140px;
+}
+/* .card{
+    /* height: 270px; 
+} */
+.footer{
+    background-color:black;
+}
+ .useful{
+    position: relative;
+    display: block;
+    border-bottom: 1px solid; 
+    padding-bottom: 5px;
+    color: white;
+    margin-left: 100px;
+    
+
+}
+
+.list-unstyled{
+    margin-left: 120px;
+    color: white;
+    text-decoration: none;
+   
+}
+
+
+.condition{
+    margin-bottom: 2px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.useful2{
+    position: relative;
+    display: block;
+    border-bottom: 1px solid;  
+    padding-bottom: 5px;
+    color: white;
+     margin-left: 70px; 
+     font-size: 28px;
+
+}
+
+.list-unstyled1{
+    margin-left: 100px;
+    color: white;
+   
+}
+
+.condition1{
+    margin-bottom: 2px
+}
+.footer2 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    /* padding-bottom: 10px;  */
+}
+.filter{
+    text-align:left;
+    /* width: 60%; */
+}
+.filterbtn{
+    width: 60px;
+}
+.drp{
+    width: 80%;
+    height: auto;
+}
+.li{
+    margin-left: 10px;
+}
+.filter3{
+    background-color:rgb(201, 201, 214);
+    width: 100px;
+}
+.filter3:hover{
+    background-color:rgb(13, 13, 14);
+    
+}
